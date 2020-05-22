@@ -25,7 +25,6 @@ Assuming that we're conditioning on <img src="https://render.githubusercontent.c
 where <img src="https://render.githubusercontent.com/render/math?math=g_\theta" style="display:inline; margin-bottom:-2px;">, <img src="https://render.githubusercontent.com/render/math?math=\text{scale}" style="display:inline; margin-bottom:-2px;">, and <img src="https://render.githubusercontent.com/render/math?math=\text{scale_shift}" style="display:inline; margin-bottom:-2px;"> are all learned parameters.
 
 
-<img src="https://render.githubusercontent.com/render/math?math=" style="display:inline; margin-bottom:-2px;">
 
 **Autoregressive Flows using PixelCNN:**
 
